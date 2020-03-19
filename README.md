@@ -14,6 +14,6 @@ This exercise is to help you get comfortable with while loops.
 
 3. Write a while loop that will iterate from 0 to 10. For each iteration of the for loop, it will multiply the number by 9 and log the result (e.g. "2 * 9 = 18").
 
-4. Make a while loop that has a variable with a value of 36. Returns how many times can you can divide it by 2 to get down to 1.
+4. Make a while loop that has a variable with a value of 36. As you loop down to 1, return the sum of when you divide the variable (at its current state in that iteration) by 2.
 
  5. You have a shelf that can only hold so many books. For each iteration of the loop, we will add one book onto the shelf. Once the shelf has 80 books, you can no longer add anymore. Write a script that after every iteration, it will tell you how many remaining books you can add into the shelf. Console long something like, "There is room for only ## of books"
