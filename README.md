@@ -17,3 +17,7 @@ This exercise is to help you get comfortable with while loops.
 4. Make a while loop that has a variable with a value of 36. As you loop down to 1, return the sum of when you divide the variable (at its current state in that iteration) by 2.
 
  5. You have a shelf that can only hold so many books. For each iteration of the loop, we will add one book onto the shelf. Once the shelf has 80 books, you can no longer add anymore. Write a script that after every iteration, it will tell you how many remaining books you can add into the shelf. Console long something like, "There is room for only ## of books"
+
+### Bonus: The Famous "FizzBuzz"
+
+Write a JavaScript program which iterates the integers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
